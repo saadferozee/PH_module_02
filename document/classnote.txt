@@ -220,7 +220,7 @@ PRACTICE TASK --->
 
     CSS Types Challenge -->
 
-        • Create a HTML document with 3 paragraphs
+        • Create an HTML document with 3 paragraphs
         • Use Inline, Internal, External CSS in it
 
     Text Styling Challenge -->
