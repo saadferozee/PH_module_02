@@ -5,16 +5,24 @@
 
 body {
     background-color: antiquewhite;
-    dispay : flex;
+    display : flex;
 }
 
 div {
-    width: 87.5%;
-    margin : 30px auto;
-    padding : 10px;
+    width: 25%;
+    margin : 50px auto;
+    padding : 20px;
     border: 1px solid yellowgreen;
     border-radius: 15px;
-    box-shadow: 10px 10px 8px green;
+    box-shadow: 10px 10px 8px 2px green;
+}
+
+div:hover {
+    color: whitesmoke;
+    text-shadow: 1px 1px 3px black;
+    border: 1px solid darkgreen;
+    background-color: lightgreen;
+    box-shadow: 10px 10px 8px 2px darkgreen;
 }
 
 h3 {
